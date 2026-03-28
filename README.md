@@ -9,6 +9,12 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload --port 8000
 ```
 
+```bash
+cd  ui 
+npm  install 
+npm  run  dev
+```
+
 ## Docker
 
 ```bash
